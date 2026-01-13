@@ -1,0 +1,3339 @@
+{
+  "description" : "bilibili当天的分时图数据，全天都有数据",
+  "result": 0,
+  "securityId": "80328773346714",
+  "dayList": [
+    {
+      "dayTime": "1711987200",
+      "sectionList": [
+        {
+          "tradeSection": 2,
+          "lastClosePrice": "88300000000",
+          "pointList": [
+            {
+              "time": "1712021400",
+              "closePrice": "88300000000",
+              "volume": "45900",
+              "turnover": "4052970000",
+              "openPrice": "88300000000",
+              "highestPrice": "88300000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021460",
+              "closePrice": "89850000000",
+              "volume": "101040",
+              "turnover": "9024680000",
+              "openPrice": "88300000000",
+              "highestPrice": "90100000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021520",
+              "closePrice": "90250000000",
+              "volume": "61140",
+              "turnover": "5498873000",
+              "openPrice": "89800000000",
+              "highestPrice": "90250000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021580",
+              "closePrice": "78400000000",
+              "volume": "102940",
+              "turnover": "9274688000",
+              "openPrice": "90250000000",
+              "highestPrice": "90250000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021640",
+              "closePrice": "89600000000",
+              "volume": "49500",
+              "turnover": "4448556000",
+              "openPrice": "90050000000",
+              "highestPrice": "90050000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021700",
+              "closePrice": "89900000000",
+              "volume": "26740",
+              "turnover": "2401550000",
+              "openPrice": "89650000000",
+              "highestPrice": "90000000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021760",
+              "closePrice": "89650000000",
+              "volume": "77320",
+              "turnover": "6946885500",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021820",
+              "closePrice": "89000000000",
+              "volume": "35820",
+              "turnover": "3200635000",
+              "openPrice": "89600000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021880",
+              "closePrice": "88950000000",
+              "volume": "46320",
+              "turnover": "4120446500",
+              "openPrice": "88900000000",
+              "highestPrice": "89000000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021940",
+              "closePrice": "78400000000",
+              "volume": "38140",
+              "turnover": "3399604000",
+              "openPrice": "88950000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022000",
+              "closePrice": "89150000000",
+              "volume": "17220",
+              "turnover": "1535936000",
+              "openPrice": "89150000000",
+              "highestPrice": "89250000000",
+              "lowestPrice": "89100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022060",
+              "closePrice": "88900000000",
+              "volume": "51560",
+              "turnover": "4589819000",
+              "openPrice": "89150000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022120",
+              "closePrice": "78400000000",
+              "volume": "16560",
+              "turnover": "1469003440",
+              "openPrice": "88900000000",
+              "highestPrice": "88900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022180",
+              "closePrice": "88900000000",
+              "volume": "12260",
+              "turnover": "1088786580",
+              "openPrice": "88800000000",
+              "highestPrice": "88900000000",
+              "lowestPrice": "88700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022240",
+              "closePrice": "88800000000",
+              "volume": "26820",
+              "turnover": "2383390000",
+              "openPrice": "88900000000",
+              "highestPrice": "89000000000",
+              "lowestPrice": "88750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022300",
+              "closePrice": "78400000000",
+              "volume": "19020",
+              "turnover": "1691268520",
+              "openPrice": "88750000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022360",
+              "closePrice": "88800000000",
+              "volume": "24320",
+              "turnover": "2164955440",
+              "openPrice": "89100000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "88750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022420",
+              "closePrice": "88800000000",
+              "volume": "13200",
+              "turnover": "1171403180",
+              "openPrice": "88750000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "88700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022480",
+              "closePrice": "78400000000",
+              "volume": "67160",
+              "turnover": "5989231000",
+              "openPrice": "88800000000",
+              "highestPrice": "89350000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022540",
+              "closePrice": "89150000000",
+              "volume": "22380",
+              "turnover": "1994993500",
+              "openPrice": "89250000000",
+              "highestPrice": "89250000000",
+              "lowestPrice": "89100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022600",
+              "closePrice": "89050000000",
+              "volume": "11380",
+              "turnover": "1013904000",
+              "openPrice": "89100000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "89050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022660",
+              "closePrice": "88900000000",
+              "volume": "21580",
+              "turnover": "1919481000",
+              "openPrice": "89050000000",
+              "highestPrice": "89050000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022720",
+              "closePrice": "88950000000",
+              "volume": "12260",
+              "turnover": "1090133000",
+              "openPrice": "88900000000",
+              "highestPrice": "88950000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022780",
+              "closePrice": "88850000000",
+              "volume": "13580",
+              "turnover": "1206961000",
+              "openPrice": "88900000000",
+              "highestPrice": "88950000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022840",
+              "closePrice": "78400000000",
+              "volume": "29940",
+              "turnover": "2657523000",
+              "openPrice": "88800000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022900",
+              "closePrice": "88500000000",
+              "volume": "22520",
+              "turnover": "1994105000",
+              "openPrice": "88650000000",
+              "highestPrice": "88650000000",
+              "lowestPrice": "88350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022960",
+              "closePrice": "88400000000",
+              "volume": "23100",
+              "turnover": "2042257000",
+              "openPrice": "88350000000",
+              "highestPrice": "88450000000",
+              "lowestPrice": "88350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023020",
+              "closePrice": "88050000000",
+              "volume": "42100",
+              "turnover": "3715147360",
+              "openPrice": "88400000000",
+              "highestPrice": "88400000000",
+              "lowestPrice": "88050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023080",
+              "closePrice": "88050000000",
+              "volume": "34140",
+              "turnover": "3007460560",
+              "openPrice": "88100000000",
+              "highestPrice": "88150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023140",
+              "closePrice": "88100000000",
+              "volume": "63020",
+              "turnover": "5547902000",
+              "openPrice": "88050000000",
+              "highestPrice": "88150000000",
+              "lowestPrice": "88000000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023200",
+              "closePrice": "88000000000",
+              "volume": "9680",
+              "turnover": "852195000",
+              "openPrice": "88100000000",
+              "highestPrice": "88100000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023260",
+              "closePrice": "88200000000",
+              "volume": "20160",
+              "turnover": "1776892000",
+              "openPrice": "88050000000",
+              "highestPrice": "88250000000",
+              "lowestPrice": "88050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023320",
+              "closePrice": "88300000000",
+              "volume": "16340",
+              "turnover": "1442527000",
+              "openPrice": "88300000000",
+              "highestPrice": "88350000000",
+              "lowestPrice": "88250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023380",
+              "closePrice": "88250000000",
+              "volume": "27020",
+              "turnover": "2385631000",
+              "openPrice": "88300000000",
+              "highestPrice": "88400000000",
+              "lowestPrice": "88250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023440",
+              "closePrice": "88100000000",
+              "volume": "20420",
+              "turnover": "1800584000",
+              "openPrice": "88200000000",
+              "highestPrice": "88250000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023500",
+              "closePrice": "87950000000",
+              "volume": "26760",
+              "turnover": "2356716000",
+              "openPrice": "88150000000",
+              "highestPrice": "88200000000",
+              "lowestPrice": "87950000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023560",
+              "closePrice": "88000000000",
+              "volume": "11160",
+              "turnover": "981149000",
+              "openPrice": "87900000000",
+              "highestPrice": "88000000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023620",
+              "closePrice": "88000000000",
+              "volume": "4820",
+              "turnover": "424189000",
+              "openPrice": "88050000000",
+              "highestPrice": "88050000000",
+              "lowestPrice": "87900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023680",
+              "closePrice": "88000000000",
+              "volume": "37260",
+              "turnover": "3276338400",
+              "openPrice": "88000000000",
+              "highestPrice": "88000000000",
+              "lowestPrice": "87750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023740",
+              "closePrice": "78400000000",
+              "volume": "11080",
+              "turnover": "976015000",
+              "openPrice": "88050000000",
+              "highestPrice": "88150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023800",
+              "closePrice": "87900000000",
+              "volume": "29620",
+              "turnover": "2605479320",
+              "openPrice": "88100000000",
+              "highestPrice": "88100000000",
+              "lowestPrice": "87750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023860",
+              "closePrice": "87950000000",
+              "volume": "5700",
+              "turnover": "501230000",
+              "openPrice": "87900000000",
+              "highestPrice": "87950000000",
+              "lowestPrice": "87900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023920",
+              "closePrice": "87900000000",
+              "volume": "4560",
+              "turnover": "400836000",
+              "openPrice": "87950000000",
+              "highestPrice": "87950000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023980",
+              "closePrice": "87850000000",
+              "volume": "8140",
+              "turnover": "715163000",
+              "openPrice": "87900000000",
+              "highestPrice": "87900000000",
+              "lowestPrice": "87850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024040",
+              "closePrice": "87950000000",
+              "volume": "12200",
+              "turnover": "1072358000",
+              "openPrice": "87850000000",
+              "highestPrice": "88000000000",
+              "lowestPrice": "87850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024100",
+              "closePrice": "87900000000",
+              "volume": "22200",
+              "turnover": "1952706440",
+              "openPrice": "87950000000",
+              "highestPrice": "88050000000",
+              "lowestPrice": "87900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024160",
+              "closePrice": "88300000000",
+              "volume": "29760",
+              "turnover": "2621606000",
+              "openPrice": "87850000000",
+              "highestPrice": "88300000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024220",
+              "closePrice": "88350000000",
+              "volume": "8400",
+              "turnover": "742386000",
+              "openPrice": "88300000000",
+              "highestPrice": "88400000000",
+              "lowestPrice": "88300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024280",
+              "closePrice": "78400000000",
+              "volume": "40840",
+              "turnover": "3617211000",
+              "openPrice": "88400000000",
+              "highestPrice": "88700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024340",
+              "closePrice": "88800000000",
+              "volume": "12120",
+              "turnover": "1074831000",
+              "openPrice": "88700000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "88650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024400",
+              "closePrice": "88700000000",
+              "volume": "17520",
+              "turnover": "1554082000",
+              "openPrice": "88750000000",
+              "highestPrice": "88750000000",
+              "lowestPrice": "88650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024460",
+              "closePrice": "88800000000",
+              "volume": "20140",
+              "turnover": "1786190000",
+              "openPrice": "88700000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024520",
+              "closePrice": "88950000000",
+              "volume": "24280",
+              "turnover": "2157232000",
+              "openPrice": "88750000000",
+              "highestPrice": "88950000000",
+              "lowestPrice": "88750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024580",
+              "closePrice": "89050000000",
+              "volume": "16620",
+              "turnover": "1478845000",
+              "openPrice": "88950000000",
+              "highestPrice": "89050000000",
+              "lowestPrice": "88900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024640",
+              "closePrice": "78400000000",
+              "volume": "42800",
+              "turnover": "3819286000",
+              "openPrice": "89050000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024700",
+              "closePrice": "89250000000",
+              "volume": "43640",
+              "turnover": "3897787300",
+              "openPrice": "89400000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024760",
+              "closePrice": "89300000000",
+              "volume": "22420",
+              "turnover": "2001286000",
+              "openPrice": "89250000000",
+              "highestPrice": "89300000000",
+              "lowestPrice": "89250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024820",
+              "closePrice": "89350000000",
+              "volume": "8060",
+              "turnover": "719855780",
+              "openPrice": "89250000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024880",
+              "closePrice": "89400000000",
+              "volume": "11660",
+              "turnover": "1042685520",
+              "openPrice": "89350000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024940",
+              "closePrice": "89350000000",
+              "volume": "2280",
+              "turnover": "203746500",
+              "openPrice": "89350000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025000",
+              "closePrice": "89400000000",
+              "volume": "36700",
+              "turnover": "3281685000",
+              "openPrice": "89400000000",
+              "highestPrice": "89500000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025060",
+              "closePrice": "89100000000",
+              "volume": "42340",
+              "turnover": "3778864000",
+              "openPrice": "89350000000",
+              "highestPrice": "89350000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025120",
+              "closePrice": "89100000000",
+              "volume": "19780",
+              "turnover": "1762143000",
+              "openPrice": "89100000000",
+              "highestPrice": "89200000000",
+              "lowestPrice": "89050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025180",
+              "closePrice": "89100000000",
+              "volume": "13180",
+              "turnover": "1175156000",
+              "openPrice": "89100000000",
+              "highestPrice": "89200000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025240",
+              "closePrice": "89200000000",
+              "volume": "13840",
+              "turnover": "1233956000",
+              "openPrice": "89150000000",
+              "highestPrice": "89200000000",
+              "lowestPrice": "89150000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025300",
+              "closePrice": "89400000000",
+              "volume": "9240",
+              "turnover": "825437000",
+              "openPrice": "89300000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025360",
+              "closePrice": "89350000000",
+              "volume": "12980",
+              "turnover": "1159873000",
+              "openPrice": "89400000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025420",
+              "closePrice": "89350000000",
+              "volume": "4700",
+              "turnover": "419928000",
+              "openPrice": "89300000000",
+              "highestPrice": "89350000000",
+              "lowestPrice": "89300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025480",
+              "closePrice": "89550000000",
+              "volume": "7840",
+              "turnover": "701471000",
+              "openPrice": "89400000000",
+              "highestPrice": "89550000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025540",
+              "closePrice": "89450000000",
+              "volume": "49560",
+              "turnover": "4435895560",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025600",
+              "closePrice": "89500000000",
+              "volume": "4100",
+              "turnover": "366799000",
+              "openPrice": "89500000000",
+              "highestPrice": "89500000000",
+              "lowestPrice": "89450000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025660",
+              "closePrice": "89600000000",
+              "volume": "28400",
+              "turnover": "2542954500",
+              "openPrice": "89500000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025720",
+              "closePrice": "89600000000",
+              "volume": "7720",
+              "turnover": "691849640",
+              "openPrice": "89650000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025780",
+              "closePrice": "89400000000",
+              "volume": "29120",
+              "turnover": "2606529000",
+              "openPrice": "89600000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025840",
+              "closePrice": "89400000000",
+              "volume": "4160",
+              "turnover": "371905000",
+              "openPrice": "89400000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025900",
+              "closePrice": "89400000000",
+              "volume": "1360",
+              "turnover": "121594000",
+              "openPrice": "89400000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025960",
+              "closePrice": "89500000000",
+              "volume": "17140",
+              "turnover": "1533530000",
+              "openPrice": "89400000000",
+              "highestPrice": "89550000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026020",
+              "closePrice": "89550000000",
+              "volume": "5560",
+              "turnover": "497869820",
+              "openPrice": "89550000000",
+              "highestPrice": "89550000000",
+              "lowestPrice": "89500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026080",
+              "closePrice": "78400000000",
+              "volume": "10920",
+              "turnover": "978090000",
+              "openPrice": "89550000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026140",
+              "closePrice": "89650000000",
+              "volume": "7360",
+              "turnover": "659864000",
+              "openPrice": "89650000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026200",
+              "closePrice": "89600000000",
+              "volume": "18780",
+              "turnover": "1683816000",
+              "openPrice": "89650000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026260",
+              "closePrice": "89650000000",
+              "volume": "6820",
+              "turnover": "611388000",
+              "openPrice": "89650000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026320",
+              "closePrice": "89850000000",
+              "volume": "11560",
+              "turnover": "1037735000",
+              "openPrice": "89700000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026380",
+              "closePrice": "89950000000",
+              "volume": "15220",
+              "turnover": "1368467000",
+              "openPrice": "89850000000",
+              "highestPrice": "90000000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026440",
+              "closePrice": "90000000000",
+              "volume": "23400",
+              "turnover": "2105288000",
+              "openPrice": "89950000000",
+              "highestPrice": "90000000000",
+              "lowestPrice": "89900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026500",
+              "closePrice": "90050000000",
+              "volume": "42520",
+              "turnover": "3828556000",
+              "openPrice": "90000000000",
+              "highestPrice": "90100000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026560",
+              "closePrice": "90150000000",
+              "volume": "24100",
+              "turnover": "2171384000",
+              "openPrice": "90050000000",
+              "highestPrice": "90150000000",
+              "lowestPrice": "90050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026620",
+              "closePrice": "90150000000",
+              "volume": "5360",
+              "turnover": "483132520",
+              "openPrice": "90150000000",
+              "highestPrice": "90150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026680",
+              "closePrice": "90100000000",
+              "volume": "14640",
+              "turnover": "1319286000",
+              "openPrice": "90150000000",
+              "highestPrice": "90150000000",
+              "lowestPrice": "90100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026740",
+              "closePrice": "90150000000",
+              "volume": "10520",
+              "turnover": "948341120",
+              "openPrice": "90150000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "90100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026800",
+              "closePrice": "90150000000",
+              "volume": "11720",
+              "turnover": "1056306520",
+              "openPrice": "90150000000",
+              "highestPrice": "90150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026860",
+              "closePrice": "90250000000",
+              "volume": "39980",
+              "turnover": "3605819000",
+              "openPrice": "90150000000",
+              "highestPrice": "90300000000",
+              "lowestPrice": "90100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026920",
+              "closePrice": "90350000000",
+              "volume": "15960",
+              "turnover": "1441112000",
+              "openPrice": "90250000000",
+              "highestPrice": "90350000000",
+              "lowestPrice": "90250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712026980",
+              "closePrice": "78400000000",
+              "volume": "66140",
+              "turnover": "5965762000",
+              "openPrice": "90300000000",
+              "highestPrice": "90300000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027040",
+              "closePrice": "90200000000",
+              "volume": "3960",
+              "turnover": "357094000",
+              "openPrice": "90150000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "90100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027100",
+              "closePrice": "90200000000",
+              "volume": "11380",
+              "turnover": "1026120000",
+              "openPrice": "90250000000",
+              "highestPrice": "90250000000",
+              "lowestPrice": "90150000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027160",
+              "closePrice": "78400000000",
+              "volume": "17280",
+              "turnover": "1556532000",
+              "openPrice": "90150000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027220",
+              "closePrice": "89800000000",
+              "volume": "12740",
+              "turnover": "1144763000",
+              "openPrice": "89900000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027280",
+              "closePrice": "89700000000",
+              "volume": "8940",
+              "turnover": "802149000",
+              "openPrice": "89750000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027340",
+              "closePrice": "78400000000",
+              "volume": "5940",
+              "turnover": "533335000",
+              "openPrice": "89750000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027400",
+              "closePrice": "89900000000",
+              "volume": "2320",
+              "turnover": "208590480",
+              "openPrice": "89900000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027460",
+              "closePrice": "89800000000",
+              "volume": "12620",
+              "turnover": "1133691320",
+              "openPrice": "89900000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027520",
+              "closePrice": "89800000000",
+              "volume": "6500",
+              "turnover": "583816000",
+              "openPrice": "89850000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027580",
+              "closePrice": "89850000000",
+              "volume": "4460",
+              "turnover": "400665360",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027640",
+              "closePrice": "89800000000",
+              "volume": "28140",
+              "turnover": "2527423500",
+              "openPrice": "89850000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027700",
+              "closePrice": "89750000000",
+              "volume": "1860",
+              "turnover": "166952000",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027760",
+              "closePrice": "89700000000",
+              "volume": "2120",
+              "turnover": "190246000",
+              "openPrice": "89750000000",
+              "highestPrice": "89750000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027820",
+              "closePrice": "89700000000",
+              "volume": "3020",
+              "turnover": "270894000",
+              "openPrice": "89700000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027880",
+              "closePrice": "89850000000",
+              "volume": "23620",
+              "turnover": "2120929000",
+              "openPrice": "89700000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712027940",
+              "closePrice": "89850000000",
+              "volume": "2240",
+              "turnover": "201292000",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028000",
+              "closePrice": "89900000000",
+              "volume": "3980",
+              "turnover": "357792000",
+              "openPrice": "89900000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028060",
+              "closePrice": "89900000000",
+              "volume": "1740",
+              "turnover": "156463000",
+              "openPrice": "89950000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "89900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028120",
+              "closePrice": "89950000000",
+              "volume": "1860",
+              "turnover": "167289000",
+              "openPrice": "89950000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028180",
+              "closePrice": "89950000000",
+              "volume": "7600",
+              "turnover": "683936440",
+              "openPrice": "89950000000",
+              "highestPrice": "90000000000",
+              "lowestPrice": "89950000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028240",
+              "closePrice": "90150000000",
+              "volume": "10360",
+              "turnover": "933274760",
+              "openPrice": "90000000000",
+              "highestPrice": "90150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028300",
+              "closePrice": "90050000000",
+              "volume": "6740",
+              "turnover": "607087000",
+              "openPrice": "90150000000",
+              "highestPrice": "90150000000",
+              "lowestPrice": "90050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028360",
+              "closePrice": "90050000000",
+              "volume": "3460",
+              "turnover": "311586000",
+              "openPrice": "90050000000",
+              "highestPrice": "90100000000",
+              "lowestPrice": "90050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028420",
+              "closePrice": "78400000000",
+              "volume": "1680",
+              "turnover": "151337000",
+              "openPrice": "90100000000",
+              "highestPrice": "90100000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028480",
+              "closePrice": "90100000000",
+              "volume": "2280",
+              "turnover": "205412000",
+              "openPrice": "90100000000",
+              "highestPrice": "90100000000",
+              "lowestPrice": "90050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028540",
+              "closePrice": "90100000000",
+              "volume": "2140",
+              "turnover": "192778500",
+              "openPrice": "90100000000",
+              "highestPrice": "90100000000",
+              "lowestPrice": "90050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028600",
+              "closePrice": "90000000000",
+              "volume": "26840",
+              "turnover": "2416845000",
+              "openPrice": "90050000000",
+              "highestPrice": "90050000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028660",
+              "closePrice": "89950000000",
+              "volume": "17800",
+              "turnover": "1601986000",
+              "openPrice": "90000000000",
+              "highestPrice": "90000000000",
+              "lowestPrice": "89950000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028720",
+              "closePrice": "89900000000",
+              "volume": "30380",
+              "turnover": "2732546000",
+              "openPrice": "89950000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "89900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028780",
+              "closePrice": "78400000000",
+              "volume": "11240",
+              "turnover": "1009886000",
+              "openPrice": "89850000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028840",
+              "closePrice": "89750000000",
+              "volume": "4020",
+              "turnover": "360871000",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028900",
+              "closePrice": "89700000000",
+              "volume": "5980",
+              "turnover": "536641000",
+              "openPrice": "89750000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712028960",
+              "closePrice": "89700000000",
+              "volume": "2320",
+              "turnover": "208104000",
+              "openPrice": "89700000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029020",
+              "closePrice": "89700000000",
+              "volume": "580",
+              "turnover": "52028040",
+              "openPrice": "89700000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029080",
+              "closePrice": "89900000000",
+              "volume": "12660",
+              "turnover": "1136552960",
+              "openPrice": "89750000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029140",
+              "closePrice": "89900000000",
+              "volume": "1500",
+              "turnover": "134839000",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029200",
+              "closePrice": "89900000000",
+              "volume": "1740",
+              "turnover": "156411000",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029260",
+              "closePrice": "78400000000",
+              "volume": "8540",
+              "turnover": "767307840",
+              "openPrice": "89900000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029320",
+              "closePrice": "89800000000",
+              "volume": "4960",
+              "turnover": "445408000",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029380",
+              "closePrice": "89800000000",
+              "volume": "300",
+              "turnover": "26940000",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029440",
+              "closePrice": "89800000000",
+              "volume": "340",
+              "turnover": "30532000",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029500",
+              "closePrice": "78400000000",
+              "volume": "2900",
+              "turnover": "260440000",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029560",
+              "closePrice": "89850000000",
+              "volume": "680",
+              "turnover": "61083000",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029620",
+              "closePrice": "89750000000",
+              "volume": "6120",
+              "turnover": "549540500",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029680",
+              "closePrice": "78400000000",
+              "volume": "65780",
+              "turnover": "5901765000",
+              "openPrice": "89750000000",
+              "highestPrice": "89750000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029740",
+              "closePrice": "89350000000",
+              "volume": "14040",
+              "turnover": "1254739000",
+              "openPrice": "89550000000",
+              "highestPrice": "89550000000",
+              "lowestPrice": "89300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029800",
+              "closePrice": "89350000000",
+              "volume": "4840",
+              "turnover": "432748000",
+              "openPrice": "89400000000",
+              "highestPrice": "89500000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029860",
+              "closePrice": "78400000000",
+              "volume": "9200",
+              "turnover": "822465920",
+              "openPrice": "89350000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029920",
+              "closePrice": "89350000000",
+              "volume": "980",
+              "turnover": "87629000",
+              "openPrice": "89450000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712029980",
+              "closePrice": "89400000000",
+              "volume": "4260",
+              "turnover": "380807980",
+              "openPrice": "89350000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712030040",
+              "closePrice": "78400000000",
+              "volume": "1060",
+              "turnover": "94806000",
+              "openPrice": "89450000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712030100",
+              "closePrice": "89400000000",
+              "volume": "8640",
+              "turnover": "772691960",
+              "openPrice": "89400000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712030160",
+              "closePrice": "78400000000",
+              "volume": "8240",
+              "turnover": "736197000",
+              "openPrice": "89400000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712030220",
+              "closePrice": "89350000000",
+              "volume": "540",
+              "turnover": "48249040",
+              "openPrice": "89350000000",
+              "highestPrice": "89350000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712030280",
+              "closePrice": "89400000000",
+              "volume": "4600",
+              "turnover": "411240000",
+              "openPrice": "89400000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712030340",
+              "closePrice": "89450000000",
+              "volume": "5240",
+              "turnover": "468447960",
+              "openPrice": "89400000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712030400",
+              "closePrice": "89350000000",
+              "volume": "2880",
+              "turnover": "257323000",
+              "openPrice": "89450000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89300000000",
+              "exrightType": 0
+            }
+          ],
+          "timeZone": 8,
+          "tradeSectionV2": 20
+        },
+        {
+          "tradeSection": 3,
+          "lastClosePrice": "88300000000",
+          "pointList": [
+            {
+              "time": "1712034060",
+              "closePrice": "89650000000",
+              "volume": "50160",
+              "turnover": "4486830000",
+              "openPrice": "89350000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034120",
+              "closePrice": "89650000000",
+              "volume": "4980",
+              "turnover": "446431000",
+              "openPrice": "89600000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034180",
+              "closePrice": "89650000000",
+              "volume": "11840",
+              "turnover": "1061536000",
+              "openPrice": "89600000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034240",
+              "closePrice": "89550000000",
+              "volume": "7140",
+              "turnover": "639724000",
+              "openPrice": "89600000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034300",
+              "closePrice": "89600000000",
+              "volume": "1920",
+              "turnover": "172008320",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034360",
+              "closePrice": "89700000000",
+              "volume": "8840",
+              "turnover": "792314000",
+              "openPrice": "89550000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034420",
+              "closePrice": "89700000000",
+              "volume": "3220",
+              "turnover": "288762620",
+              "openPrice": "89650000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034480",
+              "closePrice": "89600000000",
+              "volume": "6440",
+              "turnover": "577189000",
+              "openPrice": "89650000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034540",
+              "closePrice": "89600000000",
+              "volume": "14560",
+              "turnover": "1304576000",
+              "openPrice": "89600000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034600",
+              "closePrice": "89650000000",
+              "volume": "6880",
+              "turnover": "616436000",
+              "openPrice": "89550000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034660",
+              "closePrice": "89650000000",
+              "volume": "10620",
+              "turnover": "952063000",
+              "openPrice": "89650000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034720",
+              "closePrice": "89800000000",
+              "volume": "22200",
+              "turnover": "1992063000",
+              "openPrice": "89600000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034780",
+              "closePrice": "89750000000",
+              "volume": "4460",
+              "turnover": "400442000",
+              "openPrice": "89700000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034840",
+              "closePrice": "89900000000",
+              "volume": "17380",
+              "turnover": "1561455000",
+              "openPrice": "89750000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034900",
+              "closePrice": "89900000000",
+              "volume": "2640",
+              "turnover": "237402000",
+              "openPrice": "89900000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "89900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712034960",
+              "closePrice": "89900000000",
+              "volume": "8420",
+              "turnover": "757032000",
+              "openPrice": "89900000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035020",
+              "closePrice": "89850000000",
+              "volume": "52740",
+              "turnover": "4738686580",
+              "openPrice": "89850000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035080",
+              "closePrice": "89850000000",
+              "volume": "2000",
+              "turnover": "179623000",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035140",
+              "closePrice": "89800000000",
+              "volume": "3700",
+              "turnover": "332270000",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035200",
+              "closePrice": "89750000000",
+              "volume": "70200",
+              "turnover": "6300614080",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035260",
+              "closePrice": "89650000000",
+              "volume": "22660",
+              "turnover": "2032426000",
+              "openPrice": "89700000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035320",
+              "closePrice": "89700000000",
+              "volume": "3140",
+              "turnover": "281564000",
+              "openPrice": "89650000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035380",
+              "closePrice": "89650000000",
+              "volume": "7500",
+              "turnover": "672543500",
+              "openPrice": "89650000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035440",
+              "closePrice": "89600000000",
+              "volume": "37100",
+              "turnover": "3325943000",
+              "openPrice": "89650000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035500",
+              "closePrice": "89500000000",
+              "volume": "5080",
+              "turnover": "454888000",
+              "openPrice": "89550000000",
+              "highestPrice": "89550000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035560",
+              "closePrice": "89550000000",
+              "volume": "4420",
+              "turnover": "395618000",
+              "openPrice": "89500000000",
+              "highestPrice": "89550000000",
+              "lowestPrice": "89500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035620",
+              "closePrice": "89600000000",
+              "volume": "12620",
+              "turnover": "1130195000",
+              "openPrice": "89500000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035680",
+              "closePrice": "89600000000",
+              "volume": "2520",
+              "turnover": "225768000",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035740",
+              "closePrice": "89550000000",
+              "volume": "2620",
+              "turnover": "234713000",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035800",
+              "closePrice": "89600000000",
+              "volume": "5400",
+              "turnover": "483823160",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035860",
+              "closePrice": "89550000000",
+              "volume": "4820",
+              "turnover": "431700600",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035920",
+              "closePrice": "89600000000",
+              "volume": "3080",
+              "turnover": "275879000",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712035980",
+              "closePrice": "89600000000",
+              "volume": "7020",
+              "turnover": "628659000",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036040",
+              "closePrice": "89700000000",
+              "volume": "9860",
+              "turnover": "883675160",
+              "openPrice": "89550000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036100",
+              "closePrice": "89650000000",
+              "volume": "3700",
+              "turnover": "331714280",
+              "openPrice": "89650000000",
+              "highestPrice": "89700000000",
+              "lowestPrice": "89650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036160",
+              "closePrice": "89750000000",
+              "volume": "9000",
+              "turnover": "807455000",
+              "openPrice": "89650000000",
+              "highestPrice": "89750000000",
+              "lowestPrice": "89650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036220",
+              "closePrice": "89750000000",
+              "volume": "2040",
+              "turnover": "183109000",
+              "openPrice": "89800000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036280",
+              "closePrice": "89750000000",
+              "volume": "4520",
+              "turnover": "405645560",
+              "openPrice": "89700000000",
+              "highestPrice": "89750000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036340",
+              "closePrice": "89850000000",
+              "volume": "6780",
+              "turnover": "608720000",
+              "openPrice": "89700000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036400",
+              "closePrice": "89800000000",
+              "volume": "2660",
+              "turnover": "238960540",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036460",
+              "closePrice": "89850000000",
+              "volume": "3820",
+              "turnover": "343118000",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036520",
+              "closePrice": "89850000000",
+              "volume": "2180",
+              "turnover": "195862580",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036580",
+              "closePrice": "89750000000",
+              "volume": "7440",
+              "turnover": "668119000",
+              "openPrice": "89850000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036640",
+              "closePrice": "89750000000",
+              "volume": "1020",
+              "turnover": "91566000",
+              "openPrice": "89750000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036700",
+              "closePrice": "78400000000",
+              "volume": "4940",
+              "turnover": "443492000",
+              "openPrice": "89750000000",
+              "highestPrice": "89800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036760",
+              "closePrice": "89850000000",
+              "volume": "4500",
+              "turnover": "404149000",
+              "openPrice": "89750000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036820",
+              "closePrice": "89850000000",
+              "volume": "6880",
+              "turnover": "618145000",
+              "openPrice": "89800000000",
+              "highestPrice": "89850000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036880",
+              "closePrice": "89900000000",
+              "volume": "12540",
+              "turnover": "1126912000",
+              "openPrice": "89800000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712036940",
+              "closePrice": "89850000000",
+              "volume": "9700",
+              "turnover": "871807000",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037000",
+              "closePrice": "89900000000",
+              "volume": "2840",
+              "turnover": "255301000",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037060",
+              "closePrice": "89950000000",
+              "volume": "4200",
+              "turnover": "377688000",
+              "openPrice": "89850000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "89850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037120",
+              "closePrice": "89900000000",
+              "volume": "4540",
+              "turnover": "408270080",
+              "openPrice": "89900000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037180",
+              "closePrice": "89950000000",
+              "volume": "28740",
+              "turnover": "2584478000",
+              "openPrice": "89900000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "89900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037240",
+              "closePrice": "89950000000",
+              "volume": "5820",
+              "turnover": "523497560",
+              "openPrice": "89900000000",
+              "highestPrice": "89950000000",
+              "lowestPrice": "89900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037300",
+              "closePrice": "90050000000",
+              "volume": "25960",
+              "turnover": "2335989000",
+              "openPrice": "89900000000",
+              "highestPrice": "90050000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037360",
+              "closePrice": "90200000000",
+              "volume": "25680",
+              "turnover": "2315178340",
+              "openPrice": "90000000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "90000000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037420",
+              "closePrice": "90200000000",
+              "volume": "3660",
+              "turnover": "330072000",
+              "openPrice": "90100000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "90100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037480",
+              "closePrice": "90200000000",
+              "volume": "1880",
+              "turnover": "169543000",
+              "openPrice": "90150000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037540",
+              "closePrice": "90150000000",
+              "volume": "2420",
+              "turnover": "218209000",
+              "openPrice": "90150000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "90150000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037600",
+              "closePrice": "90150000000",
+              "volume": "12180",
+              "turnover": "1098343000",
+              "openPrice": "90150000000",
+              "highestPrice": "90200000000",
+              "lowestPrice": "90100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037660",
+              "closePrice": "90300000000",
+              "volume": "26580",
+              "turnover": "2398328000",
+              "openPrice": "90150000000",
+              "highestPrice": "90300000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037720",
+              "closePrice": "90450000000",
+              "volume": "25980",
+              "turnover": "2348919000",
+              "openPrice": "90300000000",
+              "highestPrice": "90450000000",
+              "lowestPrice": "90300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037780",
+              "closePrice": "90750000000",
+              "volume": "21320",
+              "turnover": "1930724000",
+              "openPrice": "90400000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037840",
+              "closePrice": "90900000000",
+              "volume": "34300",
+              "turnover": "3116609000",
+              "openPrice": "90700000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037900",
+              "closePrice": "90900000000",
+              "volume": "40680",
+              "turnover": "3698227500",
+              "openPrice": "90850000000",
+              "highestPrice": "90950000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712037960",
+              "closePrice": "90950000000",
+              "volume": "4700",
+              "turnover": "427315100",
+              "openPrice": "90850000000",
+              "highestPrice": "90950000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038020",
+              "closePrice": "91000000000",
+              "volume": "35920",
+              "turnover": "3267645000",
+              "openPrice": "90900000000",
+              "highestPrice": "91000000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038080",
+              "closePrice": "91000000000",
+              "volume": "50360",
+              "turnover": "4580738000",
+              "openPrice": "90950000000",
+              "highestPrice": "91000000000",
+              "lowestPrice": "90900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038140",
+              "closePrice": "91000000000",
+              "volume": "15860",
+              "turnover": "1443162000",
+              "openPrice": "90900000000",
+              "highestPrice": "91050000000",
+              "lowestPrice": "90900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038200",
+              "closePrice": "91250000000",
+              "volume": "23300",
+              "turnover": "2124032000",
+              "openPrice": "91000000000",
+              "highestPrice": "91250000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038260",
+              "closePrice": "91250000000",
+              "volume": "12760",
+              "turnover": "1164368840",
+              "openPrice": "91200000000",
+              "highestPrice": "91300000000",
+              "lowestPrice": "91200000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038320",
+              "closePrice": "91400000000",
+              "volume": "20420",
+              "turnover": "1865251020",
+              "openPrice": "91250000000",
+              "highestPrice": "91400000000",
+              "lowestPrice": "91250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038380",
+              "closePrice": "91300000000",
+              "volume": "38660",
+              "turnover": "3530484000",
+              "openPrice": "91250000000",
+              "highestPrice": "91400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038440",
+              "closePrice": "91200000000",
+              "volume": "73740",
+              "turnover": "6726493000",
+              "openPrice": "91250000000",
+              "highestPrice": "91300000000",
+              "lowestPrice": "91150000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038500",
+              "closePrice": "91000000000",
+              "volume": "32760",
+              "turnover": "2984452500",
+              "openPrice": "91150000000",
+              "highestPrice": "91200000000",
+              "lowestPrice": "91000000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038560",
+              "closePrice": "90900000000",
+              "volume": "14560",
+              "turnover": "1323886000",
+              "openPrice": "90950000000",
+              "highestPrice": "91000000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038620",
+              "closePrice": "90900000000",
+              "volume": "5120",
+              "turnover": "465408000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038680",
+              "closePrice": "90800000000",
+              "volume": "23220",
+              "turnover": "2109327000",
+              "openPrice": "90850000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038740",
+              "closePrice": "90850000000",
+              "volume": "18120",
+              "turnover": "1645641500",
+              "openPrice": "90800000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038800",
+              "closePrice": "90950000000",
+              "volume": "20800",
+              "turnover": "1890852000",
+              "openPrice": "90850000000",
+              "highestPrice": "90950000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038860",
+              "closePrice": "91050000000",
+              "volume": "7100",
+              "turnover": "645897000",
+              "openPrice": "90900000000",
+              "highestPrice": "91050000000",
+              "lowestPrice": "90900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038920",
+              "closePrice": "91100000000",
+              "volume": "9880",
+              "turnover": "899964900",
+              "openPrice": "91000000000",
+              "highestPrice": "91150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712038980",
+              "closePrice": "91100000000",
+              "volume": "5960",
+              "turnover": "542992560",
+              "openPrice": "91100000000",
+              "highestPrice": "91150000000",
+              "lowestPrice": "91100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039040",
+              "closePrice": "91100000000",
+              "volume": "5700",
+              "turnover": "519166000",
+              "openPrice": "91100000000",
+              "highestPrice": "91100000000",
+              "lowestPrice": "91050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039100",
+              "closePrice": "91000000000",
+              "volume": "6980",
+              "turnover": "635609540",
+              "openPrice": "91000000000",
+              "highestPrice": "91100000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039160",
+              "closePrice": "90850000000",
+              "volume": "66640",
+              "turnover": "6062592040",
+              "openPrice": "91000000000",
+              "highestPrice": "91050000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039220",
+              "closePrice": "78400000000",
+              "volume": "16220",
+              "turnover": "1471800000",
+              "openPrice": "90800000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039280",
+              "closePrice": "90800000000",
+              "volume": "4360",
+              "turnover": "395523000",
+              "openPrice": "90650000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039340",
+              "closePrice": "90850000000",
+              "volume": "7660",
+              "turnover": "695623000",
+              "openPrice": "90800000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039400",
+              "closePrice": "90900000000",
+              "volume": "17000",
+              "turnover": "1544500000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039460",
+              "closePrice": "90900000000",
+              "volume": "3540",
+              "turnover": "321751000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039520",
+              "closePrice": "90950000000",
+              "volume": "11860",
+              "turnover": "1078479000",
+              "openPrice": "90900000000",
+              "highestPrice": "91000000000",
+              "lowestPrice": "90900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039580",
+              "closePrice": "78400000000",
+              "volume": "3660",
+              "turnover": "332689000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039640",
+              "closePrice": "90900000000",
+              "volume": "2680",
+              "turnover": "243537000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039700",
+              "closePrice": "90750000000",
+              "volume": "47340",
+              "turnover": "4299093000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039760",
+              "closePrice": "90750000000",
+              "volume": "10400",
+              "turnover": "943787360",
+              "openPrice": "90750000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039820",
+              "closePrice": "90750000000",
+              "volume": "9040",
+              "turnover": "820380000",
+              "openPrice": "90750000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039880",
+              "closePrice": "90650000000",
+              "volume": "3580",
+              "turnover": "324784000",
+              "openPrice": "90750000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712039940",
+              "closePrice": "78400000000",
+              "volume": "21880",
+              "turnover": "1982201000",
+              "openPrice": "90650000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040000",
+              "closePrice": "90500000000",
+              "volume": "4080",
+              "turnover": "369240000",
+              "openPrice": "90500000000",
+              "highestPrice": "90500000000",
+              "lowestPrice": "90500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040060",
+              "closePrice": "90500000000",
+              "volume": "3600",
+              "turnover": "325800000",
+              "openPrice": "90500000000",
+              "highestPrice": "90500000000",
+              "lowestPrice": "90500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040120",
+              "closePrice": "78400000000",
+              "volume": "3800",
+              "turnover": "343814000",
+              "openPrice": "90500000000",
+              "highestPrice": "90500000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040180",
+              "closePrice": "90550000000",
+              "volume": "12660",
+              "turnover": "1146092000",
+              "openPrice": "90500000000",
+              "highestPrice": "90600000000",
+              "lowestPrice": "90500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040240",
+              "closePrice": "90600000000",
+              "volume": "12860",
+              "turnover": "1164981000",
+              "openPrice": "90550000000",
+              "highestPrice": "90600000000",
+              "lowestPrice": "90550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040300",
+              "closePrice": "90850000000",
+              "volume": "10900",
+              "turnover": "989013000",
+              "openPrice": "90650000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040360",
+              "closePrice": "90800000000",
+              "volume": "3540",
+              "turnover": "321432000",
+              "openPrice": "90800000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040420",
+              "closePrice": "90800000000",
+              "volume": "5580",
+              "turnover": "506652000",
+              "openPrice": "90750000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "90750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040480",
+              "closePrice": "90800000000",
+              "volume": "2940",
+              "turnover": "266916560",
+              "openPrice": "90800000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040540",
+              "closePrice": "90750000000",
+              "volume": "12760",
+              "turnover": "1158136100",
+              "openPrice": "90800000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "90750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040600",
+              "closePrice": "90700000000",
+              "volume": "1040",
+              "turnover": "94338000",
+              "openPrice": "90700000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040660",
+              "closePrice": "90700000000",
+              "volume": "3600",
+              "turnover": "326625160",
+              "openPrice": "90750000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040720",
+              "closePrice": "90750000000",
+              "volume": "5620",
+              "turnover": "509848000",
+              "openPrice": "90700000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040780",
+              "closePrice": "90750000000",
+              "volume": "4520",
+              "turnover": "410126000",
+              "openPrice": "90750000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040840",
+              "closePrice": "90750000000",
+              "volume": "11600",
+              "turnover": "1052592000",
+              "openPrice": "90700000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040900",
+              "closePrice": "90750000000",
+              "volume": "2600",
+              "turnover": "235909000",
+              "openPrice": "90700000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712040960",
+              "closePrice": "90750000000",
+              "volume": "3560",
+              "turnover": "322989000",
+              "openPrice": "90700000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041020",
+              "closePrice": "90850000000",
+              "volume": "17380",
+              "turnover": "1577348000",
+              "openPrice": "90700000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041080",
+              "closePrice": "90850000000",
+              "volume": "22900",
+              "turnover": "2080457000",
+              "openPrice": "90850000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041140",
+              "closePrice": "90700000000",
+              "volume": "45360",
+              "turnover": "4118556500",
+              "openPrice": "90850000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041200",
+              "closePrice": "90700000000",
+              "volume": "2640",
+              "turnover": "239436000",
+              "openPrice": "90700000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041260",
+              "closePrice": "90750000000",
+              "volume": "10660",
+              "turnover": "967092000",
+              "openPrice": "90700000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041320",
+              "closePrice": "90800000000",
+              "volume": "2700",
+              "turnover": "245160000",
+              "openPrice": "90800000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "90800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041380",
+              "closePrice": "90900000000",
+              "volume": "18900",
+              "turnover": "1717259000",
+              "openPrice": "90800000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041440",
+              "closePrice": "90900000000",
+              "volume": "10000",
+              "turnover": "908715000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041500",
+              "closePrice": "90900000000",
+              "volume": "4140",
+              "turnover": "376303000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041560",
+              "closePrice": "90900000000",
+              "volume": "3860",
+              "turnover": "350874000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041620",
+              "closePrice": "90800000000",
+              "volume": "11100",
+              "turnover": "1008161000",
+              "openPrice": "90850000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041680",
+              "closePrice": "90800000000",
+              "volume": "6160",
+              "turnover": "559157000",
+              "openPrice": "90850000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041740",
+              "closePrice": "90800000000",
+              "volume": "1860",
+              "turnover": "168878000",
+              "openPrice": "90800000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "90750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041800",
+              "closePrice": "90850000000",
+              "volume": "23440",
+              "turnover": "2128330000",
+              "openPrice": "90750000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041860",
+              "closePrice": "90900000000",
+              "volume": "16440",
+              "turnover": "1493756000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041920",
+              "closePrice": "90900000000",
+              "volume": "5700",
+              "turnover": "518091000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712041980",
+              "closePrice": "90900000000",
+              "volume": "5160",
+              "turnover": "469016000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042040",
+              "closePrice": "90900000000",
+              "volume": "8460",
+              "turnover": "769014000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042100",
+              "closePrice": "90900000000",
+              "volume": "5900",
+              "turnover": "536271000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042160",
+              "closePrice": "90850000000",
+              "volume": "28040",
+              "turnover": "2547442000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042220",
+              "closePrice": "90700000000",
+              "volume": "6940",
+              "turnover": "629692000",
+              "openPrice": "90800000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042280",
+              "closePrice": "90700000000",
+              "volume": "3260",
+              "turnover": "295656000",
+              "openPrice": "90650000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042340",
+              "closePrice": "90700000000",
+              "volume": "8020",
+              "turnover": "727052000",
+              "openPrice": "90650000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042400",
+              "closePrice": "90700000000",
+              "volume": "3560",
+              "turnover": "322844000",
+              "openPrice": "90650000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042460",
+              "closePrice": "90700000000",
+              "volume": "6480",
+              "turnover": "587641500",
+              "openPrice": "90700000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042520",
+              "closePrice": "90650000000",
+              "volume": "23380",
+              "turnover": "2120118500",
+              "openPrice": "90650000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042580",
+              "closePrice": "90550000000",
+              "volume": "15140",
+              "turnover": "1371815000",
+              "openPrice": "90650000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "90550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042640",
+              "closePrice": "78400000000",
+              "volume": "7680",
+              "turnover": "695245000",
+              "openPrice": "90550000000",
+              "highestPrice": "90550000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042700",
+              "closePrice": "90550000000",
+              "volume": "6280",
+              "turnover": "568515000",
+              "openPrice": "90500000000",
+              "highestPrice": "90550000000",
+              "lowestPrice": "90500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042760",
+              "closePrice": "90550000000",
+              "volume": "16020",
+              "turnover": "1450570000",
+              "openPrice": "90500000000",
+              "highestPrice": "90550000000",
+              "lowestPrice": "90500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042820",
+              "closePrice": "90550000000",
+              "volume": "6460",
+              "turnover": "584951000",
+              "openPrice": "90550000000",
+              "highestPrice": "90550000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042880",
+              "closePrice": "90550000000",
+              "volume": "8340",
+              "turnover": "755187000",
+              "openPrice": "90550000000",
+              "highestPrice": "90550000000",
+              "lowestPrice": "90550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712042940",
+              "closePrice": "90550000000",
+              "volume": "6700",
+              "turnover": "606685000",
+              "openPrice": "90550000000",
+              "highestPrice": "90550000000",
+              "lowestPrice": "90550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043000",
+              "closePrice": "90450000000",
+              "volume": "11400",
+              "turnover": "1031718000",
+              "openPrice": "90550000000",
+              "highestPrice": "90550000000",
+              "lowestPrice": "90450000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043060",
+              "closePrice": "90650000000",
+              "volume": "24080",
+              "turnover": "2180590000",
+              "openPrice": "90500000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043120",
+              "closePrice": "90650000000",
+              "volume": "9340",
+              "turnover": "846647520",
+              "openPrice": "90650000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043180",
+              "closePrice": "90650000000",
+              "volume": "9520",
+              "turnover": "862988000",
+              "openPrice": "90650000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043240",
+              "closePrice": "90650000000",
+              "volume": "9080",
+              "turnover": "823093000",
+              "openPrice": "90650000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "90600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043300",
+              "closePrice": "90600000000",
+              "volume": "13660",
+              "turnover": "1237749000",
+              "openPrice": "90650000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "90600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043360",
+              "closePrice": "90650000000",
+              "volume": "8580",
+              "turnover": "777757000",
+              "openPrice": "90650000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043420",
+              "closePrice": "90650000000",
+              "volume": "10480",
+              "turnover": "950012000",
+              "openPrice": "90650000000",
+              "highestPrice": "90650000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043480",
+              "closePrice": "90650000000",
+              "volume": "15100",
+              "turnover": "1369002000",
+              "openPrice": "90650000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043540",
+              "closePrice": "90700000000",
+              "volume": "21300",
+              "turnover": "1931951000",
+              "openPrice": "90700000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043600",
+              "closePrice": "90750000000",
+              "volume": "27760",
+              "turnover": "2518945000",
+              "openPrice": "90750000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043660",
+              "closePrice": "90800000000",
+              "volume": "10880",
+              "turnover": "987590000",
+              "openPrice": "90750000000",
+              "highestPrice": "90800000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043720",
+              "closePrice": "90850000000",
+              "volume": "11340",
+              "turnover": "1029820000",
+              "openPrice": "90800000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043780",
+              "closePrice": "90850000000",
+              "volume": "19720",
+              "turnover": "1791562000",
+              "openPrice": "90850000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043840",
+              "closePrice": "90700000000",
+              "volume": "35660",
+              "turnover": "3236529000",
+              "openPrice": "90850000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043900",
+              "closePrice": "90700000000",
+              "volume": "11060",
+              "turnover": "1002841000",
+              "openPrice": "90650000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712043960",
+              "closePrice": "90650000000",
+              "volume": "25940",
+              "turnover": "2352134000",
+              "openPrice": "90700000000",
+              "highestPrice": "90700000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044020",
+              "closePrice": "90750000000",
+              "volume": "13540",
+              "turnover": "1228048000",
+              "openPrice": "90700000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044080",
+              "closePrice": "90750000000",
+              "volume": "16320",
+              "turnover": "1480802000",
+              "openPrice": "90750000000",
+              "highestPrice": "90750000000",
+              "lowestPrice": "90700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044140",
+              "closePrice": "90850000000",
+              "volume": "17040",
+              "turnover": "1546726000",
+              "openPrice": "90700000000",
+              "highestPrice": "90850000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044200",
+              "closePrice": "90900000000",
+              "volume": "17140",
+              "turnover": "1557134000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90800000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044260",
+              "closePrice": "90900000000",
+              "volume": "20280",
+              "turnover": "1843444000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044320",
+              "closePrice": "90900000000",
+              "volume": "29020",
+              "turnover": "2637030000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044380",
+              "closePrice": "90900000000",
+              "volume": "18940",
+              "turnover": "1721186000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044440",
+              "closePrice": "90900000000",
+              "volume": "20100",
+              "turnover": "1827069000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044500",
+              "closePrice": "90900000000",
+              "volume": "44860",
+              "turnover": "4078580000",
+              "openPrice": "90900000000",
+              "highestPrice": "91000000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044560",
+              "closePrice": "90900000000",
+              "volume": "14960",
+              "turnover": "1359690000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044620",
+              "closePrice": "90900000000",
+              "volume": "15780",
+              "turnover": "1434311000",
+              "openPrice": "90850000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044680",
+              "closePrice": "90900000000",
+              "volume": "19740",
+              "turnover": "1794245000",
+              "openPrice": "90900000000",
+              "highestPrice": "90900000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044740",
+              "closePrice": "90900000000",
+              "volume": "28340",
+              "turnover": "2576659000",
+              "openPrice": "90850000000",
+              "highestPrice": "91000000000",
+              "lowestPrice": "90850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712044800",
+              "closePrice": "90650000000",
+              "volume": "2024960",
+              "turnover": "183569834000",
+              "openPrice": "90900000000",
+              "highestPrice": "91000000000",
+              "lowestPrice": "90650000000",
+              "exrightType": 0
+            }
+          ],
+          "timeZone": 8,
+          "tradeSectionV2": 20
+        }
+      ]
+    }
+  ],
+  "volumePrecision": 0
+}

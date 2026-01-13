@@ -1,0 +1,1547 @@
+{
+  "description" : "bilibili当天的分时图数据，数据到上午",
+  "result": 0,
+  "securityId": "80328773346714",
+  "dayList": [
+    {
+      "dayTime": "1711987200",
+      "sectionList": [
+        {
+          "tradeSection": 2,
+          "lastClosePrice": "88300000000",
+          "pointList": [
+            {
+              "time": "1712021400",
+              "closePrice": "88300000000",
+              "volume": "45900",
+              "turnover": "4052970000",
+              "openPrice": "88300000000",
+              "highestPrice": "88300000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021460",
+              "closePrice": "89850000000",
+              "volume": "101040",
+              "turnover": "9024680000",
+              "openPrice": "88300000000",
+              "highestPrice": "90100000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021520",
+              "closePrice": "90250000000",
+              "volume": "61140",
+              "turnover": "5498873000",
+              "openPrice": "89800000000",
+              "highestPrice": "90250000000",
+              "lowestPrice": "89750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021580",
+              "closePrice": "78400000000",
+              "volume": "102940",
+              "turnover": "9274688000",
+              "openPrice": "90250000000",
+              "highestPrice": "90250000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021640",
+              "closePrice": "89600000000",
+              "volume": "49500",
+              "turnover": "4448556000",
+              "openPrice": "90050000000",
+              "highestPrice": "90050000000",
+              "lowestPrice": "89600000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021700",
+              "closePrice": "89900000000",
+              "volume": "26740",
+              "turnover": "2401550000",
+              "openPrice": "89650000000",
+              "highestPrice": "90000000000",
+              "lowestPrice": "89550000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021760",
+              "closePrice": "89650000000",
+              "volume": "77320",
+              "turnover": "6946885500",
+              "openPrice": "89850000000",
+              "highestPrice": "89900000000",
+              "lowestPrice": "89650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021820",
+              "closePrice": "89000000000",
+              "volume": "35820",
+              "turnover": "3200635000",
+              "openPrice": "89600000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021880",
+              "closePrice": "88950000000",
+              "volume": "46320",
+              "turnover": "4120446500",
+              "openPrice": "88900000000",
+              "highestPrice": "89000000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712021940",
+              "closePrice": "78400000000",
+              "volume": "38140",
+              "turnover": "3399604000",
+              "openPrice": "88950000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022000",
+              "closePrice": "89150000000",
+              "volume": "17220",
+              "turnover": "1535936000",
+              "openPrice": "89150000000",
+              "highestPrice": "89250000000",
+              "lowestPrice": "89100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022060",
+              "closePrice": "88900000000",
+              "volume": "51560",
+              "turnover": "4589819000",
+              "openPrice": "89150000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022120",
+              "closePrice": "78400000000",
+              "volume": "16560",
+              "turnover": "1469003440",
+              "openPrice": "88900000000",
+              "highestPrice": "88900000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022180",
+              "closePrice": "88900000000",
+              "volume": "12260",
+              "turnover": "1088786580",
+              "openPrice": "88800000000",
+              "highestPrice": "88900000000",
+              "lowestPrice": "88700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022240",
+              "closePrice": "88800000000",
+              "volume": "26820",
+              "turnover": "2383390000",
+              "openPrice": "88900000000",
+              "highestPrice": "89000000000",
+              "lowestPrice": "88750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022300",
+              "closePrice": "78400000000",
+              "volume": "19020",
+              "turnover": "1691268520",
+              "openPrice": "88750000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022360",
+              "closePrice": "88800000000",
+              "volume": "24320",
+              "turnover": "2164955440",
+              "openPrice": "89100000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "88750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022420",
+              "closePrice": "88800000000",
+              "volume": "13200",
+              "turnover": "1171403180",
+              "openPrice": "88750000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "88700000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022480",
+              "closePrice": "78400000000",
+              "volume": "67160",
+              "turnover": "5989231000",
+              "openPrice": "88800000000",
+              "highestPrice": "89350000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022540",
+              "closePrice": "89150000000",
+              "volume": "22380",
+              "turnover": "1994993500",
+              "openPrice": "89250000000",
+              "highestPrice": "89250000000",
+              "lowestPrice": "89100000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022600",
+              "closePrice": "89050000000",
+              "volume": "11380",
+              "turnover": "1013904000",
+              "openPrice": "89100000000",
+              "highestPrice": "89150000000",
+              "lowestPrice": "89050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022660",
+              "closePrice": "88900000000",
+              "volume": "21580",
+              "turnover": "1919481000",
+              "openPrice": "89050000000",
+              "highestPrice": "89050000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022720",
+              "closePrice": "88950000000",
+              "volume": "12260",
+              "turnover": "1090133000",
+              "openPrice": "88900000000",
+              "highestPrice": "88950000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022780",
+              "closePrice": "88850000000",
+              "volume": "13580",
+              "turnover": "1206961000",
+              "openPrice": "88900000000",
+              "highestPrice": "88950000000",
+              "lowestPrice": "88850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022840",
+              "closePrice": "78400000000",
+              "volume": "29940",
+              "turnover": "2657523000",
+              "openPrice": "88800000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022900",
+              "closePrice": "88500000000",
+              "volume": "22520",
+              "turnover": "1994105000",
+              "openPrice": "88650000000",
+              "highestPrice": "88650000000",
+              "lowestPrice": "88350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712022960",
+              "closePrice": "88400000000",
+              "volume": "23100",
+              "turnover": "2042257000",
+              "openPrice": "88350000000",
+              "highestPrice": "88450000000",
+              "lowestPrice": "88350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023020",
+              "closePrice": "88050000000",
+              "volume": "42100",
+              "turnover": "3715147360",
+              "openPrice": "88400000000",
+              "highestPrice": "88400000000",
+              "lowestPrice": "88050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023080",
+              "closePrice": "88050000000",
+              "volume": "34140",
+              "turnover": "3007460560",
+              "openPrice": "88100000000",
+              "highestPrice": "88150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023140",
+              "closePrice": "88100000000",
+              "volume": "63020",
+              "turnover": "5547902000",
+              "openPrice": "88050000000",
+              "highestPrice": "88150000000",
+              "lowestPrice": "88000000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023200",
+              "closePrice": "88000000000",
+              "volume": "9680",
+              "turnover": "852195000",
+              "openPrice": "88100000000",
+              "highestPrice": "88100000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023260",
+              "closePrice": "88200000000",
+              "volume": "20160",
+              "turnover": "1776892000",
+              "openPrice": "88050000000",
+              "highestPrice": "88250000000",
+              "lowestPrice": "88050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023320",
+              "closePrice": "88300000000",
+              "volume": "16340",
+              "turnover": "1442527000",
+              "openPrice": "88300000000",
+              "highestPrice": "88350000000",
+              "lowestPrice": "88250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023380",
+              "closePrice": "88250000000",
+              "volume": "27020",
+              "turnover": "2385631000",
+              "openPrice": "88300000000",
+              "highestPrice": "88400000000",
+              "lowestPrice": "88250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023440",
+              "closePrice": "88100000000",
+              "volume": "20420",
+              "turnover": "1800584000",
+              "openPrice": "88200000000",
+              "highestPrice": "88250000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023500",
+              "closePrice": "87950000000",
+              "volume": "26760",
+              "turnover": "2356716000",
+              "openPrice": "88150000000",
+              "highestPrice": "88200000000",
+              "lowestPrice": "87950000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023560",
+              "closePrice": "88000000000",
+              "volume": "11160",
+              "turnover": "981149000",
+              "openPrice": "87900000000",
+              "highestPrice": "88000000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023620",
+              "closePrice": "88000000000",
+              "volume": "4820",
+              "turnover": "424189000",
+              "openPrice": "88050000000",
+              "highestPrice": "88050000000",
+              "lowestPrice": "87900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023680",
+              "closePrice": "88000000000",
+              "volume": "37260",
+              "turnover": "3276338400",
+              "openPrice": "88000000000",
+              "highestPrice": "88000000000",
+              "lowestPrice": "87750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023740",
+              "closePrice": "78400000000",
+              "volume": "11080",
+              "turnover": "976015000",
+              "openPrice": "88050000000",
+              "highestPrice": "88150000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023800",
+              "closePrice": "87900000000",
+              "volume": "29620",
+              "turnover": "2605479320",
+              "openPrice": "88100000000",
+              "highestPrice": "88100000000",
+              "lowestPrice": "87750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023860",
+              "closePrice": "87950000000",
+              "volume": "5700",
+              "turnover": "501230000",
+              "openPrice": "87900000000",
+              "highestPrice": "87950000000",
+              "lowestPrice": "87900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023920",
+              "closePrice": "87900000000",
+              "volume": "4560",
+              "turnover": "400836000",
+              "openPrice": "87950000000",
+              "highestPrice": "87950000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712023980",
+              "closePrice": "87850000000",
+              "volume": "8140",
+              "turnover": "715163000",
+              "openPrice": "87900000000",
+              "highestPrice": "87900000000",
+              "lowestPrice": "87850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024040",
+              "closePrice": "87950000000",
+              "volume": "12200",
+              "turnover": "1072358000",
+              "openPrice": "87850000000",
+              "highestPrice": "88000000000",
+              "lowestPrice": "87850000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024100",
+              "closePrice": "87900000000",
+              "volume": "22200",
+              "turnover": "1952706440",
+              "openPrice": "87950000000",
+              "highestPrice": "88050000000",
+              "lowestPrice": "87900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024160",
+              "closePrice": "88300000000",
+              "volume": "29760",
+              "turnover": "2621606000",
+              "openPrice": "87850000000",
+              "highestPrice": "88300000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024220",
+              "closePrice": "88350000000",
+              "volume": "8400",
+              "turnover": "742386000",
+              "openPrice": "88300000000",
+              "highestPrice": "88400000000",
+              "lowestPrice": "88300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024280",
+              "closePrice": "78400000000",
+              "volume": "40840",
+              "turnover": "3617211000",
+              "openPrice": "88400000000",
+              "highestPrice": "88700000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024340",
+              "closePrice": "88800000000",
+              "volume": "12120",
+              "turnover": "1074831000",
+              "openPrice": "88700000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "88650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024400",
+              "closePrice": "88700000000",
+              "volume": "17520",
+              "turnover": "1554082000",
+              "openPrice": "88750000000",
+              "highestPrice": "88750000000",
+              "lowestPrice": "88650000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024460",
+              "closePrice": "88800000000",
+              "volume": "20140",
+              "turnover": "1786190000",
+              "openPrice": "88700000000",
+              "highestPrice": "88800000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024520",
+              "closePrice": "88950000000",
+              "volume": "24280",
+              "turnover": "2157232000",
+              "openPrice": "88750000000",
+              "highestPrice": "88950000000",
+              "lowestPrice": "88750000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024580",
+              "closePrice": "89050000000",
+              "volume": "16620",
+              "turnover": "1478845000",
+              "openPrice": "88950000000",
+              "highestPrice": "89050000000",
+              "lowestPrice": "88900000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024640",
+              "closePrice": "78400000000",
+              "volume": "42800",
+              "turnover": "3819286000",
+              "openPrice": "89050000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024700",
+              "closePrice": "89250000000",
+              "volume": "43640",
+              "turnover": "3897787300",
+              "openPrice": "89400000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024760",
+              "closePrice": "89300000000",
+              "volume": "22420",
+              "turnover": "2001286000",
+              "openPrice": "89250000000",
+              "highestPrice": "89300000000",
+              "lowestPrice": "89250000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024820",
+              "closePrice": "89350000000",
+              "volume": "8060",
+              "turnover": "719855780",
+              "openPrice": "89250000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024880",
+              "closePrice": "89400000000",
+              "volume": "11660",
+              "turnover": "1042685520",
+              "openPrice": "89350000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712024940",
+              "closePrice": "89350000000",
+              "volume": "2280",
+              "turnover": "203746500",
+              "openPrice": "89350000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025000",
+              "closePrice": "89400000000",
+              "volume": "36700",
+              "turnover": "3281685000",
+              "openPrice": "89400000000",
+              "highestPrice": "89500000000",
+              "lowestPrice": "89350000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025060",
+              "closePrice": "89100000000",
+              "volume": "42340",
+              "turnover": "3778864000",
+              "openPrice": "89350000000",
+              "highestPrice": "89350000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025120",
+              "closePrice": "89100000000",
+              "volume": "19780",
+              "turnover": "1762143000",
+              "openPrice": "89100000000",
+              "highestPrice": "89200000000",
+              "lowestPrice": "89050000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025180",
+              "closePrice": "89100000000",
+              "volume": "13180",
+              "turnover": "1175156000",
+              "openPrice": "89100000000",
+              "highestPrice": "89200000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025240",
+              "closePrice": "89200000000",
+              "volume": "13840",
+              "turnover": "1233956000",
+              "openPrice": "89150000000",
+              "highestPrice": "89200000000",
+              "lowestPrice": "89150000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025300",
+              "closePrice": "89400000000",
+              "volume": "9240",
+              "turnover": "825437000",
+              "openPrice": "89300000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "89300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025360",
+              "closePrice": "89350000000",
+              "volume": "12980",
+              "turnover": "1159873000",
+              "openPrice": "89400000000",
+              "highestPrice": "89400000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025420",
+              "closePrice": "89350000000",
+              "volume": "4700",
+              "turnover": "419928000",
+              "openPrice": "89300000000",
+              "highestPrice": "89350000000",
+              "lowestPrice": "89300000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025480",
+              "closePrice": "89550000000",
+              "volume": "7840",
+              "turnover": "701471000",
+              "openPrice": "89400000000",
+              "highestPrice": "89550000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025540",
+              "closePrice": "89450000000",
+              "volume": "49560",
+              "turnover": "4435895560",
+              "openPrice": "89550000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025600",
+              "closePrice": "89500000000",
+              "volume": "4100",
+              "turnover": "366799000",
+              "openPrice": "89500000000",
+              "highestPrice": "89500000000",
+              "lowestPrice": "89450000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025660",
+              "closePrice": "89600000000",
+              "volume": "28400",
+              "turnover": "2542954500",
+              "openPrice": "89500000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89500000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025720",
+              "closePrice": "89600000000",
+              "volume": "7720",
+              "turnover": "691849640",
+              "openPrice": "89650000000",
+              "highestPrice": "89650000000",
+              "lowestPrice": "78400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025780",
+              "closePrice": "89400000000",
+              "volume": "29120",
+              "turnover": "2606529000",
+              "openPrice": "89600000000",
+              "highestPrice": "89600000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025840",
+              "closePrice": "89450000000",
+              "volume": "3680",
+              "turnover": "328993000",
+              "openPrice": "89400000000",
+              "highestPrice": "89450000000",
+              "lowestPrice": "89400000000",
+              "exrightType": 0
+            },
+            {
+              "time": "1712025900"
+            },
+            {
+              "time": "1712025960"
+            },
+            {
+              "time": "1712026020"
+            },
+            {
+              "time": "1712026080"
+            },
+            {
+              "time": "1712026140"
+            },
+            {
+              "time": "1712026200"
+            },
+            {
+              "time": "1712026260"
+            },
+            {
+              "time": "1712026320"
+            },
+            {
+              "time": "1712026380"
+            },
+            {
+              "time": "1712026440"
+            },
+            {
+              "time": "1712026500"
+            },
+            {
+              "time": "1712026560"
+            },
+            {
+              "time": "1712026620"
+            },
+            {
+              "time": "1712026680"
+            },
+            {
+              "time": "1712026740"
+            },
+            {
+              "time": "1712026800"
+            },
+            {
+              "time": "1712026860"
+            },
+            {
+              "time": "1712026920"
+            },
+            {
+              "time": "1712026980"
+            },
+            {
+              "time": "1712027040"
+            },
+            {
+              "time": "1712027100"
+            },
+            {
+              "time": "1712027160"
+            },
+            {
+              "time": "1712027220"
+            },
+            {
+              "time": "1712027280"
+            },
+            {
+              "time": "1712027340"
+            },
+            {
+              "time": "1712027400"
+            },
+            {
+              "time": "1712027460"
+            },
+            {
+              "time": "1712027520"
+            },
+            {
+              "time": "1712027580"
+            },
+            {
+              "time": "1712027640"
+            },
+            {
+              "time": "1712027700"
+            },
+            {
+              "time": "1712027760"
+            },
+            {
+              "time": "1712027820"
+            },
+            {
+              "time": "1712027880"
+            },
+            {
+              "time": "1712027940"
+            },
+            {
+              "time": "1712028000"
+            },
+            {
+              "time": "1712028060"
+            },
+            {
+              "time": "1712028120"
+            },
+            {
+              "time": "1712028180"
+            },
+            {
+              "time": "1712028240"
+            },
+            {
+              "time": "1712028300"
+            },
+            {
+              "time": "1712028360"
+            },
+            {
+              "time": "1712028420"
+            },
+            {
+              "time": "1712028480"
+            },
+            {
+              "time": "1712028540"
+            },
+            {
+              "time": "1712028600"
+            },
+            {
+              "time": "1712028660"
+            },
+            {
+              "time": "1712028720"
+            },
+            {
+              "time": "1712028780"
+            },
+            {
+              "time": "1712028840"
+            },
+            {
+              "time": "1712028900"
+            },
+            {
+              "time": "1712028960"
+            },
+            {
+              "time": "1712029020"
+            },
+            {
+              "time": "1712029080"
+            },
+            {
+              "time": "1712029140"
+            },
+            {
+              "time": "1712029200"
+            },
+            {
+              "time": "1712029260"
+            },
+            {
+              "time": "1712029320"
+            },
+            {
+              "time": "1712029380"
+            },
+            {
+              "time": "1712029440"
+            },
+            {
+              "time": "1712029500"
+            },
+            {
+              "time": "1712029560"
+            },
+            {
+              "time": "1712029620"
+            },
+            {
+              "time": "1712029680"
+            },
+            {
+              "time": "1712029740"
+            },
+            {
+              "time": "1712029800"
+            },
+            {
+              "time": "1712029860"
+            },
+            {
+              "time": "1712029920"
+            },
+            {
+              "time": "1712029980"
+            },
+            {
+              "time": "1712030040"
+            },
+            {
+              "time": "1712030100"
+            },
+            {
+              "time": "1712030160"
+            },
+            {
+              "time": "1712030220"
+            },
+            {
+              "time": "1712030280"
+            },
+            {
+              "time": "1712030340"
+            },
+            {
+              "time": "1712030400"
+            }
+          ],
+          "timeZone": 8,
+          "tradeSectionV2": 20
+        },
+        {
+          "tradeSection": 3,
+          "lastClosePrice": "88300000000",
+          "pointList": [
+            {
+              "time": "1712034060"
+            },
+            {
+              "time": "1712034120"
+            },
+            {
+              "time": "1712034180"
+            },
+            {
+              "time": "1712034240"
+            },
+            {
+              "time": "1712034300"
+            },
+            {
+              "time": "1712034360"
+            },
+            {
+              "time": "1712034420"
+            },
+            {
+              "time": "1712034480"
+            },
+            {
+              "time": "1712034540"
+            },
+            {
+              "time": "1712034600"
+            },
+            {
+              "time": "1712034660"
+            },
+            {
+              "time": "1712034720"
+            },
+            {
+              "time": "1712034780"
+            },
+            {
+              "time": "1712034840"
+            },
+            {
+              "time": "1712034900"
+            },
+            {
+              "time": "1712034960"
+            },
+            {
+              "time": "1712035020"
+            },
+            {
+              "time": "1712035080"
+            },
+            {
+              "time": "1712035140"
+            },
+            {
+              "time": "1712035200"
+            },
+            {
+              "time": "1712035260"
+            },
+            {
+              "time": "1712035320"
+            },
+            {
+              "time": "1712035380"
+            },
+            {
+              "time": "1712035440"
+            },
+            {
+              "time": "1712035500"
+            },
+            {
+              "time": "1712035560"
+            },
+            {
+              "time": "1712035620"
+            },
+            {
+              "time": "1712035680"
+            },
+            {
+              "time": "1712035740"
+            },
+            {
+              "time": "1712035800"
+            },
+            {
+              "time": "1712035860"
+            },
+            {
+              "time": "1712035920"
+            },
+            {
+              "time": "1712035980"
+            },
+            {
+              "time": "1712036040"
+            },
+            {
+              "time": "1712036100"
+            },
+            {
+              "time": "1712036160"
+            },
+            {
+              "time": "1712036220"
+            },
+            {
+              "time": "1712036280"
+            },
+            {
+              "time": "1712036340"
+            },
+            {
+              "time": "1712036400"
+            },
+            {
+              "time": "1712036460"
+            },
+            {
+              "time": "1712036520"
+            },
+            {
+              "time": "1712036580"
+            },
+            {
+              "time": "1712036640"
+            },
+            {
+              "time": "1712036700"
+            },
+            {
+              "time": "1712036760"
+            },
+            {
+              "time": "1712036820"
+            },
+            {
+              "time": "1712036880"
+            },
+            {
+              "time": "1712036940"
+            },
+            {
+              "time": "1712037000"
+            },
+            {
+              "time": "1712037060"
+            },
+            {
+              "time": "1712037120"
+            },
+            {
+              "time": "1712037180"
+            },
+            {
+              "time": "1712037240"
+            },
+            {
+              "time": "1712037300"
+            },
+            {
+              "time": "1712037360"
+            },
+            {
+              "time": "1712037420"
+            },
+            {
+              "time": "1712037480"
+            },
+            {
+              "time": "1712037540"
+            },
+            {
+              "time": "1712037600"
+            },
+            {
+              "time": "1712037660"
+            },
+            {
+              "time": "1712037720"
+            },
+            {
+              "time": "1712037780"
+            },
+            {
+              "time": "1712037840"
+            },
+            {
+              "time": "1712037900"
+            },
+            {
+              "time": "1712037960"
+            },
+            {
+              "time": "1712038020"
+            },
+            {
+              "time": "1712038080"
+            },
+            {
+              "time": "1712038140"
+            },
+            {
+              "time": "1712038200"
+            },
+            {
+              "time": "1712038260"
+            },
+            {
+              "time": "1712038320"
+            },
+            {
+              "time": "1712038380"
+            },
+            {
+              "time": "1712038440"
+            },
+            {
+              "time": "1712038500"
+            },
+            {
+              "time": "1712038560"
+            },
+            {
+              "time": "1712038620"
+            },
+            {
+              "time": "1712038680"
+            },
+            {
+              "time": "1712038740"
+            },
+            {
+              "time": "1712038800"
+            },
+            {
+              "time": "1712038860"
+            },
+            {
+              "time": "1712038920"
+            },
+            {
+              "time": "1712038980"
+            },
+            {
+              "time": "1712039040"
+            },
+            {
+              "time": "1712039100"
+            },
+            {
+              "time": "1712039160"
+            },
+            {
+              "time": "1712039220"
+            },
+            {
+              "time": "1712039280"
+            },
+            {
+              "time": "1712039340"
+            },
+            {
+              "time": "1712039400"
+            },
+            {
+              "time": "1712039460"
+            },
+            {
+              "time": "1712039520"
+            },
+            {
+              "time": "1712039580"
+            },
+            {
+              "time": "1712039640"
+            },
+            {
+              "time": "1712039700"
+            },
+            {
+              "time": "1712039760"
+            },
+            {
+              "time": "1712039820"
+            },
+            {
+              "time": "1712039880"
+            },
+            {
+              "time": "1712039940"
+            },
+            {
+              "time": "1712040000"
+            },
+            {
+              "time": "1712040060"
+            },
+            {
+              "time": "1712040120"
+            },
+            {
+              "time": "1712040180"
+            },
+            {
+              "time": "1712040240"
+            },
+            {
+              "time": "1712040300"
+            },
+            {
+              "time": "1712040360"
+            },
+            {
+              "time": "1712040420"
+            },
+            {
+              "time": "1712040480"
+            },
+            {
+              "time": "1712040540"
+            },
+            {
+              "time": "1712040600"
+            },
+            {
+              "time": "1712040660"
+            },
+            {
+              "time": "1712040720"
+            },
+            {
+              "time": "1712040780"
+            },
+            {
+              "time": "1712040840"
+            },
+            {
+              "time": "1712040900"
+            },
+            {
+              "time": "1712040960"
+            },
+            {
+              "time": "1712041020"
+            },
+            {
+              "time": "1712041080"
+            },
+            {
+              "time": "1712041140"
+            },
+            {
+              "time": "1712041200"
+            },
+            {
+              "time": "1712041260"
+            },
+            {
+              "time": "1712041320"
+            },
+            {
+              "time": "1712041380"
+            },
+            {
+              "time": "1712041440"
+            },
+            {
+              "time": "1712041500"
+            },
+            {
+              "time": "1712041560"
+            },
+            {
+              "time": "1712041620"
+            },
+            {
+              "time": "1712041680"
+            },
+            {
+              "time": "1712041740"
+            },
+            {
+              "time": "1712041800"
+            },
+            {
+              "time": "1712041860"
+            },
+            {
+              "time": "1712041920"
+            },
+            {
+              "time": "1712041980"
+            },
+            {
+              "time": "1712042040"
+            },
+            {
+              "time": "1712042100"
+            },
+            {
+              "time": "1712042160"
+            },
+            {
+              "time": "1712042220"
+            },
+            {
+              "time": "1712042280"
+            },
+            {
+              "time": "1712042340"
+            },
+            {
+              "time": "1712042400"
+            },
+            {
+              "time": "1712042460"
+            },
+            {
+              "time": "1712042520"
+            },
+            {
+              "time": "1712042580"
+            },
+            {
+              "time": "1712042640"
+            },
+            {
+              "time": "1712042700"
+            },
+            {
+              "time": "1712042760"
+            },
+            {
+              "time": "1712042820"
+            },
+            {
+              "time": "1712042880"
+            },
+            {
+              "time": "1712042940"
+            },
+            {
+              "time": "1712043000"
+            },
+            {
+              "time": "1712043060"
+            },
+            {
+              "time": "1712043120"
+            },
+            {
+              "time": "1712043180"
+            },
+            {
+              "time": "1712043240"
+            },
+            {
+              "time": "1712043300"
+            },
+            {
+              "time": "1712043360"
+            },
+            {
+              "time": "1712043420"
+            },
+            {
+              "time": "1712043480"
+            },
+            {
+              "time": "1712043540"
+            },
+            {
+              "time": "1712043600"
+            },
+            {
+              "time": "1712043660"
+            },
+            {
+              "time": "1712043720"
+            },
+            {
+              "time": "1712043780"
+            },
+            {
+              "time": "1712043840"
+            },
+            {
+              "time": "1712043900"
+            },
+            {
+              "time": "1712043960"
+            },
+            {
+              "time": "1712044020"
+            },
+            {
+              "time": "1712044080"
+            },
+            {
+              "time": "1712044140"
+            },
+            {
+              "time": "1712044200"
+            },
+            {
+              "time": "1712044260"
+            },
+            {
+              "time": "1712044320"
+            },
+            {
+              "time": "1712044380"
+            },
+            {
+              "time": "1712044440"
+            },
+            {
+              "time": "1712044500"
+            },
+            {
+              "time": "1712044560"
+            },
+            {
+              "time": "1712044620"
+            },
+            {
+              "time": "1712044680"
+            },
+            {
+              "time": "1712044740"
+            },
+            {
+              "time": "1712044800"
+            }
+          ],
+          "timeZone": 8,
+          "tradeSectionV2": 20
+        }
+      ]
+    }
+  ],
+  "volumePrecision": 0
+}
