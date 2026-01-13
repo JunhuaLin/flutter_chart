@@ -13,7 +13,7 @@ and the Flutter guide for
 
 ## Features
 
-用于基金中图表的显示
+图标基础框架，与常用图标能力，条形图，饼图，折现图，k线
 
 
 ## Usage
