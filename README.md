@@ -13,7 +13,7 @@ and the Flutter guide for
 
 ## Features
 
-图标基础框架，与常用图标能力，条形图，饼图，折现图，k线
+图标基础框架，与常用图表能力，条形图，饼图，折现图，k线
 
 
 ## Usage
